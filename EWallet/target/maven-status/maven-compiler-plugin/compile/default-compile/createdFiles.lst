@@ -1,0 +1,9 @@
+com\ewallet\EWallet\Controller\TransactionController.class
+com\ewallet\EWallet\Repository\TransactionRepository.class
+com\ewallet\EWallet\EWalletApplication.class
+com\ewallet\EWallet\Model\Wallet.class
+com\ewallet\EWallet\Model\User.class
+com\ewallet\EWallet\ThirdPartyServices\UserService.class
+com\ewallet\EWallet\Controller\WalletController.class
+com\ewallet\EWallet\Repository\WalletRepository.class
+com\ewallet\EWallet\Model\Transaction.class
